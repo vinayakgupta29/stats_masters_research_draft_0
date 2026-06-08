@@ -1,0 +1,45 @@
+-  Year of Birth
+-  Religion
+-  Rural/Urban
+-  highest education qualification
+-  age started working
+-  year started working
+-  amount of starting salary
+-  Number of dependants on the salary
+-  Monthly Household cost
+-  Single breadwinner or multiple earners state number
+-  was the starting salary sustainable if single
+-  total family earning
+-  Inherited Debt in family non-personal (informal debt, bank loans)
+-  Economical Background (Rich/Upper middle class/lower middle class/poor/below poverty)
+-  Marital status (At time of Job start) 
+-  Year got married
+-  Desire to live in a Joint or Nuclear Family structure
+-  Are you living in a Nuclear or a Joint Family Structure. 
+-  5 years later economics  :
+    - Bump in pay (final salary)
+    - No. Of dependants. 
+    - Household Income
+    - household cost
+
+- 10 years later : 
+    - Bump in pay (final salary)
+    - No. Of dependants. 
+    - Household Income
+    - household cost
+
+15 years: 
+    - Bump in pay (final salary)
+    - No. Of dependants. 
+    - Household Income
+    - household cost
+
+20 years :   
+    - Bump in pay (final salary)
+    - No. Of dependants. 
+    - Household Income
+    - household cost
+- was there a retirement plan (Personal/ Pension-PF)
+- After retirement Income
+
+
